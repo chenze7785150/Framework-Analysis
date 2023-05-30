@@ -1,0 +1,11 @@
+.card {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background: yellowgreen;
+    border: 1px solid #000;
+    border-radius: 4px;
+}
+p {
+    font-size: 18px;
+}
